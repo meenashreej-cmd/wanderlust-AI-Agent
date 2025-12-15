@@ -1,0 +1,5 @@
+{
+  "name": "WanderLust AI Agent",
+  "description": "An agentic travel planner that uses Gemini 2.5 to analyze visual inspiration and plan complete itineraries using function calling and budget constraints.",
+  "requestFramePermissions": []
+}
